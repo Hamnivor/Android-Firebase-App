@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1005180046668",
+    "firebase_url": "https://sendme-bef66.firebaseio.com",
+    "project_id": "sendme-bef66",
+    "storage_bucket": "sendme-bef66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005180046668:android:fbe7ecf1d3a973ec",
+        "android_client_info": {
+          "package_name": "com.sahara.powerbox.sendme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005180046668-9v991kv3b8mcv3ec9nt1hg30t9n5jd40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRqKLoDkL19Vo623aHDFCx6gDj2vLlhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
